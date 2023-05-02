@@ -1,8 +1,12 @@
-
-img {
+.main{
+    margin-top: 100px;
+}
+.logo {
+    display: block;
     width: 300px;
 }
 
-input {
+.search {
+    display: block;
     width: 400px;
 }
